@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Test_Five\Test_Five\bin\Debug\netcoreapp3.1\Test_Five.exe
+C:\Users\Роман\source\repos\Test_Five\Test_Five\bin\Debug\netcoreapp3.1\Test_Five.deps.json
+C:\Users\Роман\source\repos\Test_Five\Test_Five\bin\Debug\netcoreapp3.1\Test_Five.runtimeconfig.json
+C:\Users\Роман\source\repos\Test_Five\Test_Five\bin\Debug\netcoreapp3.1\Test_Five.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Test_Five\Test_Five\bin\Debug\netcoreapp3.1\Test_Five.dll
+C:\Users\Роман\source\repos\Test_Five\Test_Five\bin\Debug\netcoreapp3.1\Test_Five.pdb
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.dll
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.pdb
+C:\Users\Роман\source\repos\Test_Five\Test_Five\obj\Debug\netcoreapp3.1\Test_Five.genruntimeconfig.cache
